@@ -8,6 +8,10 @@
 
 Created Elder health care application
 
+### Live Deploy Link:
+
+https://elderhealthstudy.netlify.app/
+
 # Description
 
 The main aim of this application is to have Sunita sharma or any other senior citizen whose age is 65 healthy and better life. To fulfill this requirement I added various features in this application including some common features like diet plan for healthy eating, yoga & exercise to be fit, bmi checker . one of the unique feature that of health education through video tutorials available on regular basics. In this way, this application makes user happy.
@@ -48,35 +52,35 @@ The main aim of this application is to have Sunita sharma or any other senior ci
 
 ![App Screenshot](/Screenshot3.jpg?raw=true "Optional Title")
 
-![App Screenshot](/Screenshot3.jpg?raw=true "Optional Title")
+![App Screenshot](/Screenshot4.jpg?raw=true "Optional Title")
 
 ## New features and technologies that I can add in future
 
-1. Registration and Profile Creation
+1. Registration and Profile Creation:
    Users begin by creating a profile, providing essential information such as age, gender, and health goals. This data helps the app customize recommendations for each user.
 
-2. Personalized Recommendations
+2. Personalized Recommendations:
    Upon analyzing user data, the app generates personalized recommendations for yoga and exercise routines, meal plans, and mindfulness practices. This tailored approach enhances user engagement and adherence.
 
-3. Interactive Workouts
+3. Interactive Workouts:
    Users can follow along with guided yoga and exercise videos. The app tracks completed workouts, providing a sense of accomplishment and progress tracking.
 
-4. BMI Tracking
+4. BMI Tracking:
    Users input their height and weight, and the app calculates their BMI. Visual graphs and trends help users monitor their weight management journey effectively.
 
-5. Dietary Guidance
+5. Dietary Guidance:
    The app offers meal suggestions, recipes, and nutritional information based on the user's dietary preferences and goals. This feature simplifies healthy eating choices.
 
-6. Progress Monitoring
+6. Progress Monitoring:
    Users can track their workout frequency, BMI changes, and dietary adherence over time. Positive trends and milestones are celebrated to boost motivation
 
-7. Use of Machine Learning
+7. Use of Machine Learning:
    we will implement function in which we predict disease based on symptoms using Machine Learning.
 
-8. Nearby hospitals feature
+8. Nearby hospitals feature:
    We will extend the feature of nearby hospital search in which user can find more information about hospital and doctors.
 
-9. Regular Checkup
+9. Regular Checkup:
    can scehdule regular checkup and all the checkup details will be upload on the profile
    Regular check-ups help in identifying possible health conditions at an early stage, and the adage that “Prevention is better than cure” has never been truer.
 
